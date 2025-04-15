@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mid1{
+
+    margin-top:100px;
+    margin-left: 10%;
+    height: 100px;
+    width:100px;
+}
+.h1{
+    margin-top: -50px;
+    margin-left: 50%;
+}
+.btn1{
+    margin-left: 50%;
+    height: 40px;
+    width: 200px;
+}
+.btn2{
+    height: 40px;
+    width: 200px;
+}
+.footer1{
+    background-color:gray;
+    opacity: 0.7;
+    margin-top: 10%;
+}
+search-input1{
+margin-top:20%;
+
+}
